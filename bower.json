@@ -1,0 +1,21 @@
+{
+  "name": "base-theme",
+  "description": "All assets for the front-end",
+  "main": "",
+  "authors": [
+    "Adiuvo"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "overrides": {},
+  "devDependencies": {}
+}
